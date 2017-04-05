@@ -8,3 +8,4 @@ With local changes.
 And more
 
 now more from git
+ and from local
